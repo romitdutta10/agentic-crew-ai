@@ -1,0 +1,6 @@
+development_task:
+  description: >
+    Write Python code based on the topic {topic}
+  expected_output: >
+    A complete, working Python program
+  agent: developer
