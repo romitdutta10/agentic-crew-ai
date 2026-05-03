@@ -2,7 +2,7 @@
 from crewai.llm import LLM
 
 groq_llm = LLM(
-    model="groq/llama3-8b-8192",
+    model="groq/llama-3.1-8b-instant",  # stable Groq model
     temperature=0.7
 )
 
